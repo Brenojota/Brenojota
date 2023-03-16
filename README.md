@@ -1,6 +1,13 @@
 # Brenojota
 Sou estudante de programação e Desenvolvedor Junior.
 
+  # Dados
+ <div style = "display:flex;align-items:center;">
+<img src = "https://github-readme-stats.vercel.app/api?username=brenojota&show_icons=true&theme=onedark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brenojota&layout=compact&theme=onedark">
+ </div>
+ 
+
 # Tecnologias que estudo e já tenho conhecimento:
 
 <div>
@@ -12,21 +19,11 @@ Sou estudante de programação e Desenvolvedor Junior.
    
  </div> 
  
-  # Dados
- <div style = "display:flex;align-items:center;">
-<img src = "https://github-readme-stats.vercel.app/api?username=brenojota&show_icons=true&theme=onedark">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brenojota&layout=compact&theme=onedark">
- </div>
- 
- 
  <div>
-  <img src"https://media.discordapp.net/attachments/1075100392431566939/1086015396018130994/1_sMgDYWZ_JNdGmIUHdUfv9Q.gif?width=464&height=464" width="60" heigth= "60" />
+  <img src"https://media.discordapp.net/attachments/1075100392431566939/1086015396018130994/1_sMgDYWZ_JNdGmIUHdUfv9Q.gif?width=464&height=464" width="60" heigth= "60"  align ="center/>
 </div>
  </br>
- 
 
-
- 
  </br>
  <h3> Contatos </h3>
  <div>
