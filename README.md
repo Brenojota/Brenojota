@@ -17,5 +17,8 @@ Sou estudante de programação e Desenvolvedor Junior.
  </br>
  <h3> Contatos </h3>
  <div>
-   <a href="[https://www.linkedin.com/in/junior-elias-2214641a4/?originalSubdomain=br](https://www.linkedin.com/in/breno-juan-2050411b5/)"><img src="#" width="60" heigth="60" align="center" /></a>
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+          
+   <a href="https://www.linkedin.com/in/breno-juan-2050411b5/"><img src="" width="60" heigth="60" align="center" target="_blank" /></a>
  </div>
