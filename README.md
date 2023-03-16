@@ -20,7 +20,7 @@ Sou estudante de programação e Desenvolvedor Junior.
  </div> 
  
  <div>
-  <img src"https://media.discordapp.net/attachments/1075100392431566939/1086015396018130994/1_sMgDYWZ_JNdGmIUHdUfv9Q.gif?width=464&height=464" width="60" heigth= "60"  align ="center/>
+  <img src"https://media.discordapp.net/attachments/1075100392431566939/1086015396018130994/1_sMgDYWZ_JNdGmIUHdUfv9Q.gif?width=464&height=464" width="60" heigth= "60"  align ="center"/>
 </div>
  </br>
 
