@@ -12,5 +12,5 @@ Sou estudante de programação full-stack
  </br>
  <h2> Contatos </h2>
  <div>
-   <a href="https://www.linkedin.com/in/junior-elias-2214641a4/?originalSubdomain=br"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" heigth="50" align="center" /></a>
+   <a href="[https://www.linkedin.com/in/junior-elias-2214641a4/?originalSubdomain=br](https://www.linkedin.com/in/breno-juan-2050411b5/)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" heigth="50" align="center" /></a>
  </div>
