@@ -17,9 +17,6 @@ Sou estudante de programação e Desenvolvedor Junior.
  </br>
  <h3> Contatos </h3>
  <div>
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-          
-   <a href="https://www.linkedin.com/in/breno-juan-2050411b5/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" heigth="60" align="center" />
+  <a href="https://www.linkedin.com/in/breno-juan-2050411b5/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin- original.svg" width="60" heigth="60" align="center" />
           </a>
  </div>
