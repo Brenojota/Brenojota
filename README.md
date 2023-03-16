@@ -12,8 +12,7 @@ Sou estudante de programação e Desenvolvedor Junior.
    
  </div>  
  <div>
-  <img src="https://cdn.discordapp.com/attachments/878466225800380477/1084548919532454018/gif.gif.gif.gif" align="right" width="150" heigth="150" style="max-width" />
-  <img src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559" align="right"  width="150" heigth="150" style="max-width" />
+  <img src"https://media.discordapp.net/attachments/1075100392431566939/1086015396018130994/1_sMgDYWZ_JNdGmIUHdUfv9Q.gif?width=464&height=464" width="60" heigth= "60" />
 </div>
  </br>
  <h3> Contatos </h3>
