@@ -1,7 +1,7 @@
 # Brenojota
 Sou estudante de programação e Desenvolvedor Junior.
 
-#Tecnologias que estudo e já possuo conhecimento:
+#Tecnologias:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" heigth="60" align="center"/>
