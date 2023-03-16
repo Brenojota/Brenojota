@@ -3,7 +3,7 @@ Sou estudante de programação e Desenvolvedor Junior.
 
   # Dados
  <div style = "display:flex;align-items:center;">
-<img src = "https://github-readme-stats.vercel.app/api?username=brenojota&show_icons=true&theme=onedark">
+<img src = "https://github-readme-stats.vercel.app/api?username=brenojota&show_icons=true&theme=dracula">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brenojota&layout=compact&theme=onedark">
  </div>
  
