@@ -34,3 +34,5 @@ Sou estudante de programação e Desenvolvedor Junior.
            width="60" heigth="60" align="center" />
           </a>
  </div>
+ 
+ ![Snake animation](https://github.com/Brenojota/Brenojota/blob/output/github-contribution-grid-snake.svg)
