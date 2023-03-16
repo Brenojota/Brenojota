@@ -7,7 +7,7 @@ Sou estudante de programação full-stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" heigth="50" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" heigth="50" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" heigth="50" align="center"/>
-   <img src="https://cdn.discordapp.com/attachments/878466225800380477/1084548919532454018/gif.gif.gif.gif" align="right" width="150" heigth="150" style="max-width" />
+   
  </div>  
  </br>
  <h2> Contatos </h2>
