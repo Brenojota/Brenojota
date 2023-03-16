@@ -12,7 +12,7 @@ Sou estudante de programação e Desenvolvedor Junior.
    
  </div>  
  <div>
-  <img src="https://cdn.discordapp.com/attachments/878466225800380477/1084548919532454018/gif.gif.gif.gif"  width="150" heigth="150" style="max-width" />
+  <img src="https://tenor.com/view/viciadoemcodar-gif-26484614" align="right"  width="150" heigth="150" style="max-width" />
 </div>
  </br>
  <h3> Contatos </h3>
