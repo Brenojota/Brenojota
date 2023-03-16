@@ -11,6 +11,9 @@ Sou estudante de programação e Desenvolvedor Junior.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" heigth="60" align="center"/>
    
  </div>  
+ <div>
+<img src="[https://cdn.discordapp.com/attachments/878466225800380477/1084548919532454018/gif.gif.gif.gif](https://www.linkedin.com/in/breno-juan-2050411b5/)" align="right" width="150" heigth="150" style="max-width" />
+</div>
  </br>
  <h3> Contatos </h3>
  <div>
