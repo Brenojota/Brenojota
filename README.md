@@ -7,6 +7,7 @@ Sou estudante de programação e Desenvolvedor Junior.
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brenojota&layout=compact&theme=onedark">
  </div>
  
+ 
 
 # Tecnologias que estudo e já tenho conhecimento:
 
